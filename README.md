@@ -1,4 +1,4 @@
-1.We created a advenced java project using servlet Jsp.
+1.I created a advenced java project using servlet Jsp.
 2.I means Arindol Ghosh created this project.
 ![image](https://github.com/arindolghosh44/todo_app/assets/144908811/c939f610-57a0-409d-afe2-49baebe0f8cd)
 ![image](https://github.com/arindolghosh44/todo_app/assets/144908811/33fdbd09-524b-4cc6-a303-a19cf9d2f467)
